@@ -104,3 +104,8 @@ deploy:
   type: git
   repo: git@github.com:zdp2017/zdp2017.github.io.git
   branch: main
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
