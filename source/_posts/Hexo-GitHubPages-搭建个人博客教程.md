@@ -1,10 +1,11 @@
 ---
-title: 博客搭建
+title: Hexo + GitHub Pages 搭建个人博客教程
 date: 2026-09-03 18:00:00
 categories:
-  - 博客 教程
+  - 笔记
 tags:
-  - 学习笔记
+  - Hexo
+  - GitHub Pages
 ---
 
 # Hexo + GitHub Pages 搭建个人博客教程
