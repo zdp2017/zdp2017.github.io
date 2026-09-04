@@ -8,7 +8,6 @@ tags:
   - GitHub Pages
 ---
 
-# Hexo + GitHub Pages 搭建个人博客教程
 
 > **定位**：只教一件事——用 Hexo 在 GitHub Pages 搭一个可公开访问的博客，全程自动部署（配置一次后，发文章只需 `git push`）。
 > **实测环境**：Windows · Node v24（v18+ 均可）· Git 2.55 · Hexo 8.1.2 · hexo-cli 4.3.2（2026-09 实测通过）
